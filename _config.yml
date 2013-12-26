@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: AtlasCaptures
 markdown: redcarpet
 pygments: true
+paginate: 15
